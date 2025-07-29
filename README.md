@@ -1,4 +1,6 @@
 
+Design Inspo: Apple's Calculator
+
 Features
 1. Basic Operations:
    Perform addition, subtraction, multiplication, and division with smooth and responsive input.
